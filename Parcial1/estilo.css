@@ -1,0 +1,56 @@
+h1{
+    font-size: 40px ;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+h3 {
+    font: lighter 17px sans-serif;
+}
+
+header, article {
+    border: 1px solid black;
+    display: block;
+    text-align: center;
+
+}
+
+
+.agrupar{
+    margin:auto;
+    background: crimson;
+    width: 980px;
+    padding: 100px;
+    border: 2px solid black;
+
+}
+
+nav{
+    background: #ccc;
+    padding: 15px;
+}
+
+li{
+    list-style: none;
+    padding: 5px;
+    font: bold 13px verdana;
+    display: inline-block;
+    text-align: left;
+}
+th{
+    border:2px solid rgb(196, 45, 45);padding:30px;background:rgb(70, 108, 180)
+}
+td{
+    border:2px solid rgb(53, 41, 207);padding:20px;background:rgb(93,162,184)
+}
+
+table{
+    border-collapse:collapse;margin:0 auto}body{background:rgb(60,136,167)
+}
+

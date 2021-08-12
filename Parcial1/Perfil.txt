@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <META charset="utf-8" />
+        <title> Perfil</title>
+        <meta name="autor" content="Ronal Salguero" />
+        <link rel="stylesheet" href="estilo.css">
+    </head>
+    <Body>
+      <h1>Pagina de Perfil</h1>
+      
+      <nav>
+	<ul >
+	   <li><a href="Musica.html">Musica</a></li>
+	   <li><a href="Fotos.html">Fotos</a></li>
+	</ul> 
+      </nav>
+<h2> Nombre</h2>
+<h2> Edad </h2>
+<h2> Telefono</h2>
+<h2> Email </h2>
+<h2> Hobbit </h2>
+<h2> Habilidad </h2>
+<h2> Gusto Musical </h2>
+    </Body>
